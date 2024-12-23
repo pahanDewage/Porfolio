@@ -2,7 +2,7 @@
 import Image from "next/image";
 import React from "react";
 import { Carousel, Card } from "@/components/ui/apple-cards-carousel";
-// import { Image } from "next/image";
+
 import coverImage1 from "@/assets/images/fashionCenterCover.png"
 import coverImage2 from "@/assets/images/eventCenterCover.png"
 import coverImage3 from "@/assets/images/scaleafyCover.png"
@@ -191,7 +191,7 @@ const Scaleafy = () => {
           <span className="font-bold text-neutral-700 dark:text-neutral-200">
           Scalefy: Your ultimate digital space to connect and collaborate.
           </span>{" "}
-          Whether you're brainstorming the next big idea, organizing your workflow,
+          Whether you are brainstorming the next big idea, organizing your workflow,
            or simply connecting with like-minded individuals, Scalefy is here to streamline your experience.
            <p><span className="font-bold text-neutral-700 dark:text-neutral-200">
             Tech Stack :
@@ -290,7 +290,7 @@ const FashionHouse = () => {
       <div className="bg-[#F5F5F7] dark:bg-neutral-800 p-8 md:p-14 rounded-3xl mb-4">
         <p className="text-neutral-600 dark:text-neutral-400 text-base md:text-2xl font-sans max-w-3xl mx-auto text-center mb-8">
           <span className="font-bold text-neutral-700 dark:text-neutral-200">
-          Fashion House,An e-commerce platform dedicated to women's clothing.
+          Fashion House,An e-commerce platform dedicated to women clothing.
           </span>{" "}
           This site is designed to support a unique business model where the owner is the sole seller,
            while users can register as buyers to shop from a curated selection of products.

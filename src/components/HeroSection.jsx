@@ -49,8 +49,8 @@ const HeroSection = () => {
               Hire Me
             </Link>
             <a
-                href="/cv.pdf"
-                download="My_CV.pdf"
+                href="/Pahan_Dewage_cv.pdf"
+                download="Pahan_Dewage_CV.pdf"
                 className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-blue-500 to-cyan-500 hover:from-blue-600 hover:to-cyan-600 text-white mt-3"
               >
                 <span className="block bg-[#1E2A36] hover:bg-blue-700 rounded-full px-5 py-2">
