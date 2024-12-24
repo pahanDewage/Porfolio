@@ -15,6 +15,7 @@ export const sendEmail = async (userEmail, subject, message) => {
       templateParams,
       "SwS9gcrIPPBJonSwr" // Replace with your EmailJS user ID
     );
+    
 
     console.log("Email sent successfully:", response);
     return response;
