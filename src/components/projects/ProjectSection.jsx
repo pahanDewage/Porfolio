@@ -49,7 +49,7 @@ export function AppleCardsCarouselDemo() {
   ));
 
   return (
-    <section id="projects" className="w-full h-full py-12 bg-[#0f1624db]">
+    <section id="projects" className="w-full h-full py-12 bg-[#060c1e]">
     (<div className="w-full h-full py-12">
       <h2
         className="max-w-7xl pl-4 mx-auto text-xl md:text-5xl font-bold text-gray-100 dark:text-gray-100 font-sans">
