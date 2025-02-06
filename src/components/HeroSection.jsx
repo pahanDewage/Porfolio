@@ -22,7 +22,7 @@ const HeroSection = () => {
             <br></br>
             <TypeAnimation
               sequence={[
-                "Pahan Dewage",
+                "Sithija Pahan",
                 1000,
                 "Web Developer",
                 1000,
@@ -49,8 +49,8 @@ const HeroSection = () => {
               Hire Me
             </Link>
             <a
-                href="https://drive.google.com/file/d/154M1WyP3x8l39e_IGh-XUa4u-nlgIGeM/view?usp=sharing"
-                download="Pahan_Dewage_CV.pdf"
+                href="https://drive.google.com/file/d/1E5ImI9DSFL-eQ6DpkCk9lLegrPV5wwXZ/view?usp=sharing"
+                download="Sithija Pahan Resume.pdf"
                 className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-blue-500 to-cyan-500 hover:from-blue-600 hover:to-cyan-600 text-white mt-3"
               >
                 <span className="block bg-[#1E2A36] hover:bg-blue-700 rounded-full px-5 py-2">
